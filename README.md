@@ -15,7 +15,7 @@ Setup for Production
 Add this extension to your Gemfile:
 
 ```ruby
-gem "spree_social", :git => "git://github.com/spree/spree_social.git"
+gem "spree_social", :git => "git://github.com/r72cccp/spree_social.git"
 ```
 
 Then run:
